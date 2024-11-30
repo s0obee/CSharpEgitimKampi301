@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\bin\Debug\CSharpEgitimKampi301.PresantationLayer.exe.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\bin\Debug\CSharpEgitimKampi301.PresantationLayer.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\bin\Debug\CSharpEgitimKampi301.PresantationLayer.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\obj\Debug\CSharpEgitimKampi301.PresantationLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\obj\Debug\CSharpEgitimKampi301.PresantationLayer.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\obj\Debug\CSharpEgitimKampi301.PresantationLayer.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\obj\Debug\CSharpEgitimKampi301.PresantationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\obj\Debug\CSharpEgitimKampi301.PresantationLayer.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresantationLayer\obj\Debug\CSharpEgitimKampi301.PresantationLayer.pdb
